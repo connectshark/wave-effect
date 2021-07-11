@@ -1,4 +1,4 @@
-# vue3-template
+# wave-effect
 
 ## Project setup
 ```
